@@ -1,5 +1,4 @@
 # Face-Detection
-Real life emoji mapping technique
 Facemoji is a real-time face detection and tracking concept.
 It uses computer vision to identify facial landmarks like eyes, mouth, and eyebrows.
 These detected points are mapped dynamically as the person moves.
